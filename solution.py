@@ -6,7 +6,7 @@ from scipy.stats import chi2
 
 chat_id = 730773348 # Ваш chat ID, не меняйте название переменной
 
-def solution(p: float, x: np.ndarray) -> tuple:
+def solution(p: (0, 1), x: np.ndarray) -> tuple:
     # Измените код этой функции
     # Это будет вашим решением
     # Не меняйте название функции и её аргументы
